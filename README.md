@@ -65,7 +65,7 @@ Build Stage (CodeBuild)
 Deploy Stage
 •	Deployment via EKS
 •	Used kubectl inside CodeBuild
-________________________________________
+
 buildspec.yml 
 Summary
 •	Install Docker
@@ -84,4 +84,3 @@ LoadBalancer ARN:
 http://afa19a13397b9454a91010599daefd8e-2059053323.ap-south-1.elb.amazonaws.com
 Public URL:
 http:// 13.232.104.62:3000
-
